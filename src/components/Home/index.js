@@ -7,7 +7,7 @@ import Image from '../../assets/images/rochester-skyline2.png'
 
 
 const Home = () => {
-    const [letterClass, setLetterClass] = useState('text-animate');
+    const [letterClass] = useState('text-animate');
     const nameArray = ['', 'T', 'r', 'i', 's', 't', 'a', 'n', ' ', 'L', 'e', 'w', 'i', 's'];
     const jobArray = ['A', ' ', 'w', 'e', 'b', ' ', 'd', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r'];
     return (

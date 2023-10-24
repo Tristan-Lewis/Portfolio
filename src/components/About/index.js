@@ -4,7 +4,7 @@ import AnimatedLetters from '../AnimatedLetters';
 import Loader from 'react-loaders';
 
 const About = () => {
-    const [letterClass, setLetterClass] = useState('text-animate');
+    const [letterClass] = useState('text-animate');
 
     return (
         <>
