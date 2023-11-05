@@ -62,10 +62,10 @@ const Contact = () => {
                     </div>
                 </div>
                 <div className='info-map'>
-                    Tristan Lewis-Jubenville
-                    <br /><br/>
-                    99 Sandalwood dr<br />
-                    Rochester, NY 14616<br />
+                    Tristan Lewis-Jubenville<br/>
+                    (585) 314-3944
+                    <br />
+                    Rochester, NY<br />
                     <span>tristanlewisdev@gmail.com</span>
                 </div>
                 <div className='map-wrap'>
