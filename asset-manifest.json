@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.239b08ba.css",
-    "main.js": "/Portfolio/static/js/main.d48943a6.js",
+    "main.css": "/Portfolio/static/css/main.01be7e35.css",
+    "main.js": "/Portfolio/static/js/main.faff0098.js",
     "static/js/787.a2cb61a6.chunk.js": "/Portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/rochester-skyline2.png": "/Portfolio/static/media/rochester-skyline2.ef5ecc5e3ced2d03fccd.png",
+    "static/media/myflixclient.png": "/Portfolio/static/media/myflixclient.c91387a7c04697dfc322.png",
+    "static/media/connect.png": "/Portfolio/static/media/connect.b4a97c58cbd7b9fdebb1.png",
+    "static/media/chatty.png": "/Portfolio/static/media/chatty.46881d475d061c62b4d3.png",
+    "static/media/myflixapi.png": "/Portfolio/static/media/myflixapi.086c8825e7d7c35d536b.png",
+    "static/media/portfolio.png": "/Portfolio/static/media/portfolio.4b08c440e2ced6c0907c.png",
+    "static/media/rochester-skyline2.png": "/Portfolio/static/media/rochester-skyline2.dcd7beb90b259d250c3f.png",
+    "static/media/pokedex.png": "/Portfolio/static/media/pokedex.afa688dd86ec79b7f21e.png",
     "static/media/helvetica-neu.ttf": "/Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff2": "/Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/Portfolio/index.html",
-    "main.239b08ba.css.map": "/Portfolio/static/css/main.239b08ba.css.map",
-    "main.d48943a6.js.map": "/Portfolio/static/js/main.d48943a6.js.map",
+    "main.01be7e35.css.map": "/Portfolio/static/css/main.01be7e35.css.map",
+    "main.faff0098.js.map": "/Portfolio/static/js/main.faff0098.js.map",
     "787.a2cb61a6.chunk.js.map": "/Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.239b08ba.css",
-    "static/js/main.d48943a6.js"
+    "static/css/main.01be7e35.css",
+    "static/js/main.faff0098.js"
   ]
 }
