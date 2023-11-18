@@ -23,11 +23,11 @@ const Home = () => {
                     <h2>Frontend Developer | Animal Lover | Gamer </h2>
                     <div className='flex-buttons'>
                         <Link to='/contact' className='flat-button'>CONTACT ME</Link>
-                        <Link to='/contact' className='flat-button'>SEE MY WORK</Link>
+                        <Link to='/work' className='flat-button'>SEE MY WORK</Link>
                     </div>
                 </div>
             </div>
-            <img src={Image} alt='rochester skyline' />
+            <img src={Image} alt='rochester, new york skyline' />
             <Loader type='ball-scale-ripple-multiple' />
         </>
     )
